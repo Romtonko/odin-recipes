@@ -1,0 +1,1 @@
+This project will demonstrate how to create an HTML page with links and images.
